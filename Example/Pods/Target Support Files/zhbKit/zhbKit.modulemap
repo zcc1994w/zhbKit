@@ -1,0 +1,6 @@
+framework module zhbKit {
+  umbrella header "zhbKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
