@@ -1,0 +1,6 @@
+use_frameworks!
+target 'zhbKit_Tests' do
+  pod 'zhbKit', :path => '../'
+  
+  
+end
